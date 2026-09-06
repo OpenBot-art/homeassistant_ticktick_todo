@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "pick_implementation": {
+        "title": "选择认证方式"
+      }
+    },
+    "abort": {
+      "already_configured": "该账户已配置",
+      "already_in_progress": "配置流程已在进行中",
+      "oauth_error": "收到无效的 OAuth 数据。",
+      "missing_configuration": "组件尚未配置，请按照文档进行操作。"
+    }
+  },
+  "application_credentials": {
+    "description": "按照[说明]({more_info_url})配置你的应用。\n\n在此输入滴答清单开发者平台的凭据。"
+  }
+}

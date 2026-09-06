@@ -1,0 +1,16 @@
+{
+  "domain": "ticktick_todo",
+  "name": "滴答清单",
+  "version": "1.2.0",
+  "documentation": "https://github.com/OpenBot-art/homeassistant_ticktick_todo/",
+  "issue_tracker": "https://github.com/OpenBot-art/homeassistant_ticktick_todo/issues",
+  "requirements": ["aiohttp"],
+  "dependencies": [
+    "http",
+    "frontend",
+    "application_credentials"
+  ],
+  "codeowners": ["@OpenBot-art"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

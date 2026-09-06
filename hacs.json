@@ -1,0 +1,5 @@
+{
+  "name": "滴答清单",
+  "render_readme": true,
+  "iot_class": "Cloud Polling"
+}
